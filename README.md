@@ -1,6 +1,5 @@
 # Engineering Projects Portfolio
 
-![Engineering Projects Banner](https://via.placeholder.com/800x200.png?text=Engineering+Projects+Portfolio)
 
 A collection of technical reports documenting various engineering projects completed as part of academic or professional work.
 
@@ -32,13 +31,7 @@ A collection of technical reports documenting various engineering projects compl
    - Test results
    - Lessons learned
 
-## 📬 Contact
 
-For inquiries about these projects:
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🔗 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-
----
 
 *Last updated: May 2025*  
-*All projects completed as part of [Your Institution/Company Name]*
+
